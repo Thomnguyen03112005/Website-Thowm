@@ -43,7 +43,7 @@
                     <span class="fas fa-caret-down third"></span>
                 </a>
                 <ul class="shift-show">
-                   <li><a href="../sever1.php"><img src="https://media.discordapp.net/attachments/943856055564251177/944673808651010148/server.png?width=498&height=498" class="sv"> Server 1</a></li>
+                   <li><a href="../404/index.php"><img src="https://media.discordapp.net/attachments/943856055564251177/944673808651010148/server.png?width=498&height=498" class="sv"> Server 1</a></li>
                    <li><a href="../sever2/sever2.php"><img src="https://media.discordapp.net/attachments/943856055564251177/944673808651010148/server.png?width=498&height=498" class="sv"> Server 2</a></li>
                    <li><a href="#"><img src="https://media.discordapp.net/attachments/943856055564251177/944673808651010148/server.png?width=498&height=498" class="up"> Đang cập nhật</a></li>
                 </ul>
