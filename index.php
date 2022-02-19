@@ -23,9 +23,9 @@
                <span class="fas fa-caret-down first"></span>
                </a>
                <ul class="feat-show">
-                  <li><a href="https://www.facebook.com/Thowmm03112005/"><img src="https://media.discordapp.net/attachments/943856055564251177/944673341946613850/fb.png?width=498&height=498"class="icon">facebook</a></li>
-                  <li><a href="https://www.facebook.com/Thowmm03112005/"><img src="https://media.discordapp.net/attachments/943856055564251177/944673341694951464/discord.png?width=498&height=498" class="iconn"> Discord</a></li>
-                  <li><a href="https://www.facebook.com/Thowmm03112005/"><img src="https://media.discordapp.net/attachments/943856055564251177/944673808411918366/github.png?width=498&height=498" class="iconnn"> Github</a></li>
+                  <li><a href="https://www.facebook.com/Thowmm03112005"><img src="https://media.discordapp.net/attachments/943856055564251177/944673341946613850/fb.png?width=498&height=498"class="icon">facebook</a></li>
+                  <li><a href="https://discord.gg/bvUJ8VdAwF"><img src="https://media.discordapp.net/attachments/943856055564251177/944673341694951464/discord.png?width=498&height=498" class="iconn"> Discord</a></li>
+                  <li><a href="https://github.com/Thomnguyen03112005"><img src="https://media.discordapp.net/attachments/943856055564251177/944673808411918366/github.png?width=498&height=498" class="iconnn"> Github</a></li>
                </ul>
             </li>
             <li>
