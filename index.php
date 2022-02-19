@@ -24,9 +24,9 @@
                <span class="fas fa-caret-down first"></span>
                </a>
                <ul class="feat-show">
-                  <li><a href="https://www.facebook.com/Thowmm03112005/"><img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670032.png?token=exp=1645295148~hmac=980add22fb119e675e3473cdbc935408"class="icon">facebook</a></li>
-                  <li><a href="https://www.facebook.com/Thowmm03112005/"><img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670157.png?token=exp=1645295568~hmac=c03a62f377e194525fa03899a318a028" class="iconn"> Discord</a></li>
-                  <li><a href="https://www.facebook.com/Thowmm03112005/"><img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" class="iconnn"> Github</a></li>
+                  <li><a href="https://www.facebook.com/Thowmm03112005/"><img src="https://media.discordapp.net/attachments/943856055564251177/944673341946613850/fb.png?width=498&height=498"class="icon">facebook</a></li>
+                  <li><a href="https://www.facebook.com/Thowmm03112005/"><img src="https://media.discordapp.net/attachments/943856055564251177/944673341694951464/discord.png?width=498&height=498" class="iconn"> Discord</a></li>
+                  <li><a href="https://www.facebook.com/Thowmm03112005/"><img src="https://media.discordapp.net/attachments/943856055564251177/944673808411918366/github.png?width=498&height=498" class="iconnn"> Github</a></li>
                </ul>
             </li>
             <li>
@@ -44,9 +44,9 @@
                     <span class="fas fa-caret-down third"></span>
                 </a>
                 <ul class="shift-show">
-                   <li><a href="../sever1.php"><img src="https://cdn-icons.flaticon.com/png/512/2704/premium/2704265.png?token=exp=1645296975~hmac=95e16cf737ccd560c0d18beadcd971e8" class="sv"> Server 1</a></li>
-                   <li><a href="../sever1/sever1.php"><img src="https://cdn-icons.flaticon.com/png/512/2704/premium/2704265.png?token=exp=1645296975~hmac=95e16cf737ccd560c0d18beadcd971e8" class="sv"> Server 2</a></li>
-                   <li><a href="#"><img src="https://cdn-icons.flaticon.com/png/512/4391/premium/4391443.png?token=exp=1645297159~hmac=5c50e700cfe7abc5f47c916bba520d84" class="up"> Đang cập nhật</a></li>
+                   <li><a href="../sever1.php"><img src="https://media.discordapp.net/attachments/943856055564251177/944673808651010148/server.png?width=498&height=498" class="sv"> Server 1</a></li>
+                   <li><a href="../sever1/sever1.php"><img src="https://media.discordapp.net/attachments/943856055564251177/944673808651010148/server.png?width=498&height=498" class="sv"> Server 2</a></li>
+                   <li><a href="#"><img src="https://media.discordapp.net/attachments/943856055564251177/944673808651010148/server.png?width=498&height=498" class="up"> Đang cập nhật</a></li>
                 </ul>
              </li>
              <li>
@@ -54,9 +54,9 @@
                     <span class="fas fa-caret-down Fourth"></span>
                 </a>
                 <ul class="sour-show">
-                   <li><a href="#"><img src="https://cdn-icons.flaticon.com/png/512/4391/premium/4391443.png?token=exp=1645297159~hmac=5c50e700cfe7abc5f47c916bba520d84" class="up">Đang cập nhật</a></li>
-                   <li><a href="#"><img src="https://cdn-icons.flaticon.com/png/512/4391/premium/4391443.png?token=exp=1645297159~hmac=5c50e700cfe7abc5f47c916bba520d84" class="up">Đang cập nhật</a></li>
-                   <li><a href="#"><img src="https://cdn-icons.flaticon.com/png/512/4391/premium/4391443.png?token=exp=1645297159~hmac=5c50e700cfe7abc5f47c916bba520d84" class="up">Đang cập nhật</a></li>
+                   <li><a href="#"><img src="https://cdn.discordapp.com/attachments/943856055564251177/944674321144635442/updatee.png" class="up">Đang cập nhật</a></li>
+                   <li><a href="#"><img src="https://cdn.discordapp.com/attachments/943856055564251177/944674321144635442/updatee.png" class="up">Đang cập nhật</a></li>
+                   <li><a href="#"><img src="https://cdn.discordapp.com/attachments/943856055564251177/944674321144635442/updatee.png" class="up">Đang cập nhật</a></li>
                 </ul>
              </li>
             <li><a href="./Feedback/index.html">Phản hồi</a></li>
