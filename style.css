@@ -7,6 +7,15 @@
   font-family: 'Poppins', sans-serif;
 }
 
+.ac {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #86d9e4;
+}
+
 .back{
     width: 100%;
     height: 100vh;
@@ -218,4 +227,25 @@ nav ul li a span.rotate{
     right: 170px;
     top: 2px;
     position: absolute;
+}
+.dots span {
+  position: absolute;
+  height: 10px;
+  width: 10px;
+  background: #fff;
+  border-radius: 50%;
+  transform: rotate(calc(var(--i) * (360deg / 15))) translateY(35px);
+  animation: animation 1.5s linear infinite;
+  animation-delay: calc(var(--i) * 0.1s);
+  opacity: 0;
+}
+
+@keyframes animation {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
 }
