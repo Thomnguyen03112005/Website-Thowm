@@ -46,61 +46,61 @@ const music_list = [
         music : 'music/abcd.mp3'
     },
 {
-        img : 'images/stay.png',
+        img : 'images/R.gif',
         name : 'lofi rain',
         artist : ' ',
         music : 'music/abcc.mp3'
     },
 {
-        img : 'images/stay.png',
+        img : 'images/wishes.png',
         name : 'Wished 1001',
         artist : 'kean Nguyen',
         music : 'music/abc.mp3'
     },
         {
-        img : 'images/stay.png',
+        img : 'images/ab.jpg',
         name : 'Try Again',
         artist : '디어 (d.ear), 재현 (Jaehyun)',
         music : 'music/try.mp3'
     },
             {
-        img : 'images/stay.png',
+        img : 'images/cem.jpg',
         name : 'Thank u, next',
         artist : 'Ariana Grande',
         music : 'music/thankunext.mp3'
     },
             {
-        img : 'images/stay.png',
+        img : 'images/thaydoi.jpg',
         name : 'Thay đổi',
         artist : 'Lil wuyn',
         music : 'music/thaydoi.mp3'
     },
             {
-        img : 'images/stay.png',
+        img : 'images/vaicaunoi.jpg',
         name : 'Vài câu nói...',
         artist : 'Grey D',
         music : 'music/vaicaunoi.mp3'
     },
             {
-        img : 'images/stay.png',
+        img : 'images/duongtoidua.jpg',
         name : 'Đường tôi chở em về',
         artist : 'buitruonglinh',
         music : 'music/toichoemve.mp3'
     },
             {
-        img : 'images/stay.png',
+        img : 'images/phaichang.jpg',
         name : 'Phải chăng em đã yêu',
         artist : 'Juky San',
         music : 'music/phaichang.mp3'
     },
             {
-        img : 'images/stay.png',
+        img : 'images/takingmoon.jpg',
         name : 'Talking to the moon',
         artist : 'Bruno Mars',
         music : 'music/tknimoon.mp3'
     },
                 {
-        img : 'images/stay.png',
+        img : 'images/duchomai.jpg',
         name : 'Dù cho mai về sau',
         artist : 'Buitruonglinh',
         music : 'music/duchomai.mp3'
@@ -130,13 +130,13 @@ const music_list = [
         music : 'music/good4u.mp3'
     },
                     {
-        img : 'images/stay.png',
+        img : 'images/cohenvoi.jpg',
         name : 'Có hẹn với thanh xuân',
         artist : 'Monstar',
         music : 'music/cohen.mp3'
     },
         {
-        img : 'images/stay.png',
+        img : 'images/mama.jpg',
         name : 'Mama boy',
         artist : 'amee',
         music : 'music/mmboy.mp3'
@@ -148,7 +148,7 @@ const music_list = [
         music : 'music/playdate.mp3'
     },
                 {
-        img : 'images/stay.png',
+        img : 'images/rot.jpg',
         name : 'Rót',
         artist : 'híu',
         music : 'music/rothiu.mp3'
@@ -172,7 +172,7 @@ const music_list = [
         music : 'music/double.mp3'
     },
                     {
-        img : 'images/stay.png',
+        img : 'images/alw.jpg',
         name : "always, i'll care",
         artist : 'Jeremy Zucker',
         music : 'music/always.mp3'
@@ -190,7 +190,7 @@ const music_list = [
         music : 'music/aibiet.mp3'
     },
                         {
-        img : 'images/stay.png',
+        img : 'images/thaymoi.jpg',
         name : 'Thay mọi cô gái yêu anh',
         artist : 'Amee',
         music : 'music/thayamee.mp3'
@@ -202,13 +202,13 @@ const music_list = [
         music : 'music/eiwant.mp3',
     },
                         {
-        img : 'images/stay.png',
+        img : 'images/emkhonghiu.jpg',
         name : 'em không hiểu',
         artist : 'Chang , Minh huy',
         music : 'music/emkhonghieu.mp3',
     },
                         {
-        img : 'images/stay.png',
+        img : 'images/debautroi.jpg',
         name : 'Để bầu trời nhìn hai ta',
         artist : 'Hieuthuhai',
         music : 'music/bautroihieuthu3.mp3',
@@ -232,7 +232,7 @@ const music_list = [
         music : 'music/Hones.mp3',
     },
                             {
-        img : 'images/stay.png',
+        img : 'images/diu.jpg',
         name : 'Dịu dàng em đến',
         artist : 'Erik',
         music : 'music/diudangem.mp3',
@@ -293,25 +293,25 @@ const music_list = [
         music : 'music/rolling.mp3',
     },
   {
-        img : 'images/rolling.png',
+        img : 'images/chungta.jpg',
         name : 'Chúng ta của hiện tại',
         artist : 'Sơn Tùng MTP',
         music : 'music/chungtacuahientai.mp3',
     },
   {
-        img : 'images/rolling.png',
+        img : 'images/cochac.jpg',
         name : 'có chắc yêu là đây',
         artist : 'Sơn Tùng MTP',
         music : 'music/rolling.mp3',
     },
   {
-        img : 'images/rolling.png',
+        img : 'images/muonroi.jpg',
         name : 'Muộn rồi mà sao còn',
         artist : 'Sơn Tùng MTP',
         music : 'music/muonroi.mp3',
     },
    {
-        img : 'images/rolling.png',
+        img : 'images/noinay.jpg',
         name : 'Nơi này có em',
         artist : 'Sơn Tùng MTP',
         music : 'music/noinaycoe.mp3',
