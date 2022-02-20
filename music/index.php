@@ -44,7 +44,7 @@
       <div class="header">
         <div class="row">
           <i class= "list material-icons">queue_music</i>
-          <span>Music list</span>
+          <span>Danh sách nhạc</span>
         </div>
         <i id="close" class="material-icons">close</i>
       </div>
