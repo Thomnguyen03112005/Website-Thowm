@@ -269,11 +269,54 @@ const music_list = [
         music : 'music/loveme.mp3',
     },
 {
-        img : 'images/ccf.jpg',
-        name : 'I love you So',
-        artist : 'The blue',
-        music : 'music/iloveu.mp3',
+        img : 'images/drunk.jpg',
+        name : 'Drunk',
+        artist : 'kean',
+        music : 'music/drunk.mp3',
     },
+ {
+        img : 'images/mavel.png',
+        name : 'Đâu đâu cũng là em',
+        artist : 'Yongcaptain',
+        music : 'music/daucung.mp3',
+    },
+ {
+        img : 'images/ccf.jpg',
+        name : 'Em có nghe',
+        artist : 'Kha',
+        music : 'music/emconghe.mp3',
+    },
+ {
+        img : 'images/rolling.png',
+        name : 'Rolling',
+        artist : 'Richie D. ICY & AXTROBOY',
+        music : 'music/rolling.mp3',
+    },
+  {
+        img : 'images/rolling.png',
+        name : 'Chúng ta của hiện tại',
+        artist : 'Sơn Tùng MTP',
+        music : 'music/chungtacuahientai.mp3',
+    },
+  {
+        img : 'images/rolling.png',
+        name : 'có chắc yêu là đây',
+        artist : 'Sơn Tùng MTP',
+        music : 'music/rolling.mp3',
+    },
+  {
+        img : 'images/rolling.png',
+        name : 'Muộn rồi mà sao còn',
+        artist : 'Sơn Tùng MTP',
+        music : 'music/muonroi.mp3',
+    },
+   {
+        img : 'images/rolling.png',
+        name : 'Nơi này có em',
+        artist : 'Sơn Tùng MTP',
+        music : 'music/noinaycoe.mp3',
+    },
+ 
     
 ];
 
