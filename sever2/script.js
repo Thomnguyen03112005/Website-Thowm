@@ -302,7 +302,7 @@ const music_list = [
         img : 'images/cochac.jpg',
         name : 'có chắc yêu là đây',
         artist : 'Sơn Tùng MTP',
-        music : 'music/rolling.mp3',
+        music : 'music/cochacyela.mp3',
     },
   {
         img : 'images/muonroi.jpg',
