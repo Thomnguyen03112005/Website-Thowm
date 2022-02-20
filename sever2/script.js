@@ -82,7 +82,7 @@ const music_list = [
         music : 'music/vaicaunoi.mp3'
     },
             {
-        img : 'images/duongtoidua.jpg',
+        img : 'images/duongtoiduae.gif',
         name : 'Đường tôi chở em về',
         artist : 'buitruonglinh',
         music : 'music/toichoemve.mp3'
