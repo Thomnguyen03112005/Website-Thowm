@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- Created By CodingNepal -->
 <html lang="en" dir="ltr">
    <head>
       <meta charset="utf-8">
@@ -23,9 +24,9 @@
                <span class="fas fa-caret-down first"></span>
                </a>
                <ul class="feat-show">
-                  <li><a href="https://www.facebook.com/Thowmm03112005"><img src="https://media.discordapp.net/attachments/943856055564251177/944673341946613850/fb.png?width=498&height=498"class="icon">facebook</a></li>
-                  <li><a href="https://discord.gg/bvUJ8VdAwF"><img src="https://media.discordapp.net/attachments/943856055564251177/944673341694951464/discord.png?width=498&height=498" class="iconn"> Discord</a></li>
-                  <li><a href="https://github.com/Thomnguyen03112005"><img src="https://media.discordapp.net/attachments/943856055564251177/944673808411918366/github.png?width=498&height=498" class="iconnn"> Github</a></li>
+                  <li><a href="https://www.facebook.com/Thowmm03112005/"><img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670032.png?token=exp=1645295148~hmac=980add22fb119e675e3473cdbc935408"class="icon">facebook</a></li>
+                  <li><a href="https://www.facebook.com/Thowmm03112005/"><img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670157.png?token=exp=1645295568~hmac=c03a62f377e194525fa03899a318a028" class="iconn"> Discord</a></li>
+                  <li><a href="https://www.facebook.com/Thowmm03112005/"><img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" class="iconnn"> Github</a></li>
                </ul>
             </li>
             <li>
@@ -43,9 +44,9 @@
                     <span class="fas fa-caret-down third"></span>
                 </a>
                 <ul class="shift-show">
-                   <li><a href="../404/index.php"><img src="https://media.discordapp.net/attachments/943856055564251177/944673808651010148/server.png?width=498&height=498" class="sv"> Server 1</a></li>
-                   <li><a href="../sever2/sever2.php"><img src="https://media.discordapp.net/attachments/943856055564251177/944673808651010148/server.png?width=498&height=498" class="sv"> Server 2</a></li>
-                   <li><a href="#"><img src="https://media.discordapp.net/attachments/943856055564251177/944673808651010148/server.png?width=498&height=498" class="up"> Đang cập nhật</a></li>
+                   <li><a href="../sever1.php"><img src="https://cdn-icons.flaticon.com/png/512/2704/premium/2704265.png?token=exp=1645296975~hmac=95e16cf737ccd560c0d18beadcd971e8" class="sv"> Server 1</a></li>
+                   <li><a href="../sever1/sever1.php"><img src="https://cdn-icons.flaticon.com/png/512/2704/premium/2704265.png?token=exp=1645296975~hmac=95e16cf737ccd560c0d18beadcd971e8" class="sv"> Server 2</a></li>
+                   <li><a href="#"><img src="https://cdn-icons.flaticon.com/png/512/4391/premium/4391443.png?token=exp=1645297159~hmac=5c50e700cfe7abc5f47c916bba520d84" class="up"> Đang cập nhật</a></li>
                 </ul>
              </li>
              <li>
@@ -53,9 +54,9 @@
                     <span class="fas fa-caret-down Fourth"></span>
                 </a>
                 <ul class="sour-show">
-                   <li><a href="#"><img src="https://cdn.discordapp.com/attachments/943856055564251177/944674321144635442/updatee.png" class="up">Đang cập nhật</a></li>
-                   <li><a href="#"><img src="https://cdn.discordapp.com/attachments/943856055564251177/944674321144635442/updatee.png" class="up">Đang cập nhật</a></li>
-                   <li><a href="#"><img src="https://cdn.discordapp.com/attachments/943856055564251177/944674321144635442/updatee.png" class="up">Đang cập nhật</a></li>
+                   <li><a href="#"><img src="https://cdn-icons.flaticon.com/png/512/4391/premium/4391443.png?token=exp=1645297159~hmac=5c50e700cfe7abc5f47c916bba520d84" class="up">Đang cập nhật</a></li>
+                   <li><a href="#"><img src="https://cdn-icons.flaticon.com/png/512/4391/premium/4391443.png?token=exp=1645297159~hmac=5c50e700cfe7abc5f47c916bba520d84" class="up">Đang cập nhật</a></li>
+                   <li><a href="#"><img src="https://cdn-icons.flaticon.com/png/512/4391/premium/4391443.png?token=exp=1645297159~hmac=5c50e700cfe7abc5f47c916bba520d84" class="up">Đang cập nhật</a></li>
                 </ul>
              </li>
             <li><a href="./Feedback/index.html">Phản hồi</a></li>
@@ -95,8 +96,26 @@
       });
       </script>
             <div class="back">
-       
-                <video autoplay loop>
+               <div class="ac">
+               <div class="dots"></span>
+                  <span style="--i:1"></span>
+                  <span style="--i:2"></span>
+                  <span style="--i:3"></span>
+                  <span style="--i:4"></span>
+                  <span style="--i:5"></span>
+                  <span style="--i:6"></span>
+                  <span style="--i:7"></span>
+                  <span style="--i:8"></span>
+                  <span style="--i:9"></span>
+                  <span style="--i:10"></span>
+                  <span style="--i:11"></span>
+                  <span style="--i:12"></span>
+                  <span style="--i:13"></span>
+                  <span style="--i:14"></span>
+                  <span style="--i:15"></span>
+                </div>
+               </div>
+                <video autoplay muted loop>
                     <source src="./images/back.mp4" type="video/mp4">
                 </video>
             </div>
