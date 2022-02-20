@@ -59,7 +59,7 @@
                    <li><a href="#"><img src="https://media.discordapp.net/attachments/943856055564251177/944674321144635442/updatee.png" class="up">Đang cập nhật</a></li>
                 </ul>
              </li>
-            <li><a href="./Feedback/index.html">Phản hồi</a></li>
+            <li><a href="./Feedback/index.php">Phản hồi</a></li>
          </ul>
       </nav>
       <div class="content">
