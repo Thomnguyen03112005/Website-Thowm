@@ -112,10 +112,10 @@ const music_list = [
         music : 'music/kissfor.mp3'
     },
                     {
-        img : 'images/stay.png',
-        name : 'Dù cho mai về sau',
-        artist : 'Buitruonglinh',
-        music : 'music/duchomai.mp3'
+        img : 'images/youso.jpg',
+        name : 'You so sexy',
+        artist : 'LikyBo - Kraazy',
+        music : 'music/youso.mp3'
     },
                     {
         img : 'images/ccl.jpg',
