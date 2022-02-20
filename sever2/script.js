@@ -281,7 +281,7 @@ const music_list = [
         music : 'music/daucung.mp3',
     },
  {
-        img : 'images/ccf.jpg',
+        img : 'images/emconghe.jpg',
         name : 'Em có nghe',
         artist : 'Kha',
         music : 'music/emconghe.mp3',
