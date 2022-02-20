@@ -1,5 +1,4 @@
 let allMusic = [
-
   {
       name: "Harley Bird - Home",
       artist: "Jordan Scho",
