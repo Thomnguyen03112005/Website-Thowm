@@ -167,7 +167,7 @@ let allMusic = [
     name : 'Bored',
     artist : 'Billie Eilish',
     img : 'Bored',
-    src : 'bored'
+    src : 'Bored'
 
   },
   {
