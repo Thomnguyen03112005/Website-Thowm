@@ -46,7 +46,7 @@
                 <ul class="shift-show">
                    <li><a href="../sever1.php"><img src="https://media.discordapp.net/attachments/943856055564251177/944673808651010148/server.png8" class="sv"> Server 1</a></li>
                    <li><a href="../sever1/sever1.php"><img src="https://media.discordapp.net/attachments/943856055564251177/944673808651010148/server.png" class="sv"> Server 2</a></li>
-                   <li><a href="#"><img src="https://media.discordapp.net/attachments/943856055564251177/944673808957206568/update.png" class="up"> Đang cập nhật</a></li>
+                   <li><a href="#"><img src="https://media.discordapp.net/attachments/943856055564251177/944674321144635442/updatee.png" class="up"> Đang cập nhật</a></li>
                 </ul>
              </li>
              <li>
@@ -54,9 +54,9 @@
                     <span class="fas fa-caret-down Fourth"></span>
                 </a>
                 <ul class="sour-show">
-                   <li><a href="#"><img src="https://media.discordapp.net/attachments/943856055564251177/944673808957206568/update.png" class="up">Đang cập nhật</a></li>
-                   <li><a href="#"><img src="https://media.discordapp.net/attachments/943856055564251177/944673808957206568/update.png" class="up">Đang cập nhật</a></li>
-                   <li><a href="#"><img src="https://media.discordapp.net/attachments/943856055564251177/944673808957206568/update.png" class="up">Đang cập nhật</a></li>
+                   <li><a href="#"><img src="https://media.discordapp.net/attachments/943856055564251177/944674321144635442/updatee.png" class="up">Đang cập nhật</a></li>
+                   <li><a href="#"><img src="https://media.discordapp.net/attachments/943856055564251177/944674321144635442/updatee.png" class="up">Đang cập nhật</a></li>
+                   <li><a href="#"><img src="https://media.discordapp.net/attachments/943856055564251177/944674321144635442/updatee.png" class="up">Đang cập nhật</a></li>
                 </ul>
              </li>
             <li><a href="./Feedback/index.html">Phản hồi</a></li>
