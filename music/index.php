@@ -7,8 +7,11 @@
   <link rel="stylesheet" href="style.css">
   <link rel="shortcut icon" href="./images/icon.png" type="image/x-icon">  
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
+  <div class="back">
   <div class="wrapper">
     <div class="top-bar">
       <i class="material-icons">expand_more</i>
@@ -44,7 +47,7 @@
       <div class="header">
         <div class="row">
           <i class= "list material-icons">queue_music</i>
-          <span>Danh sách nhạc</span>
+          <span>Music list</span>
         </div>
         <i id="close" class="material-icons">close</i>
       </div>
@@ -53,7 +56,12 @@
       </ul>
     </div>
   </div>
-
+  <div class="slider_container">
+    <i class="fa fa-volume-down"></i>
+     <input type="range" min="1" max="100" value="99" class="volume_slider" onchange="setVolume()">
+     <i class="fa fa-volume-up"></i>
+</div>
+</div>
   <script src="js/music-list.js"></script>
   <script src="js/script.js"></script>
 
