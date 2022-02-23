@@ -311,6 +311,12 @@ let allMusic = [
     img : 'rolling',
     src : 'rolling',
   },
+    {
+      name: "I love you so",
+      artist: "The blue",
+      img: "iloveu",
+      src: "iloveu"
+  },
 ];
 
 
