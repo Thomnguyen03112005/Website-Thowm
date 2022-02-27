@@ -323,6 +323,18 @@ let allMusic = [
       img: "catsad",
       src: "catsad"
   },
+        {
+      name: "TREASURE",
+      artist: "DARARI",
+      img: "treasure",
+      src: "treasure"
+  },
+          {
+      name: "Love Me",
+      artist: "RealestK",
+      img: "loveme",
+      src: "loveme"
+  },
 ];
 
 
