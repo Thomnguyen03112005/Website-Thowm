@@ -335,66 +335,68 @@ let allMusic = [
       img: "loveme",
       src: "lovemee"
   },
+  //chưa có ảnh 
             {
       name: "Say so",
       artist: "Doja cat",
-      img: "",
+      img: "sayso",
       src: "sayso"
   },
             {
       name: "like that",
       artist: "Doja cat",
-      img: "",
+      img: "likethat",
       src: "likethat"
   },
             {
       name: "Plastic",
       artist: "sakehands",
-      img: "",
-      src: "p lastic"
+      img: "plastic",
+      src: "plastic"
   },
             {
       name: "Tabun",
       artist: "Yoasobi",
-      img: "",
+      img: "tabun",
       src: "tabun"
   },
             {
       name: "Because I Love You",
       artist: "Yuika",
-      img: "",
+      img: "BecausILoveYou",
       src: "BecausILoveYou"
   },
               {
       name: "The way that you see me",
       artist: "Powfu",
-      img: "",
+      img: "powfuthewaythatyouseeme",
       src: "powfuthewaythatyouseeme"
   },
               {
       name: "Summertime",
       artist: "Cinnamons x Evening Cinema",
-      img: "",
+      img: "summertime",
       src: "summertime"
   },
               {
       name: "Better now",
-      artist: " ",
-      img: "",
+      artist: "betternow",
+      img: "betternow",
       src: "betternow"
   },
               {
       name: "love scenario",
       artist: "ikon",
-      img: "",
+      img: "lovescre",
       src: "lovescre"
   },
               {
       name: "Polaroid Love",
       artist: "ENHYPEN",
-      img: "",
+      img: "PolaroidLove",
       src: "PolaroidLove"
   },
+    //chưa có ảnh 
 ];
 
 
