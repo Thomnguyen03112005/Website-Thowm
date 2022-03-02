@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- Code by Thowm -->
 <html lang="en" dir="ltr">
    <head>
       <meta charset="utf-8">
