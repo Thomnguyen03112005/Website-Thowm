@@ -52,7 +52,6 @@
         <i id="close" class="material-icons">close</i>
       </div>
       <ul>
-        <!-- here li list are coming from js -->
       </ul>
     </div>
   </div>
