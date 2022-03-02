@@ -335,7 +335,6 @@ let allMusic = [
       img: "loveme",
       src: "lovemee"
   },
-  //chưa có ảnh 
             {
       name: "Say so",
       artist: "Doja cat",
@@ -396,7 +395,6 @@ let allMusic = [
       img: "PolaroidLove",
       src: "PolaroidLove"
   },
-    //chưa có ảnh 
 ];
 
 
